@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0.004375">
+<testcase classname="Testme login functionality" name="Login with valid credentilas" time="0.004375">
+<skipped><![CDATA[Given user opens the testme app in chrome browser...........................undefined
+When user gives "Lalitha" and "Password123".................................undefined
+And user clicks login button................................................undefined
+Then verify login as success................................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
